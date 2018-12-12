@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>My project</title>
+      <link>/project/example-project/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-project/</guid>
+      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Le déséquilibre des 2 ballons</title>
       <link>/post/getting-started/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0100</pubDate>
@@ -40,16 +50,6 @@
 
 &lt;p&gt;J&#39;ai voulu vous faire comprendre que Le ballon rouge ne peut pas vivre sans le ballon vert, l&#39;humanité ne peut pas vivre sans la nature. Pour que la société ne sont pas dans une des 3 situations dramatiques. Il faut que les hommes soient en harmonie avec la nature, qu&#39;ils ne travaillent plus en ligne pour faire des matèriaux mais en cycle. Ne plus faire de déchets finis. Il faut faire des déchets qui sont des ressources pour la nature. Il faut faire prendre le nécessaire.
 Ne travaillons pas en parasitisme mais en mutualisme avec elle.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My project</title>
-      <link>/project/example-project/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-project/</guid>
-      <description>&lt;p&gt;Here I describe my project using Markdown formatting...&lt;/p&gt;
 </description>
     </item>
     
